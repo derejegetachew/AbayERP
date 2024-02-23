@@ -1,0 +1,2 @@
+1708003881
+a:5:{s:9:"report_id";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:11;s:3:"key";s:7:"primary";}s:4:"name";a:4:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:22;}s:13:"type_ofreport";a:4:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:22;}s:4:"date";a:4:{s:4:"type";s:4:"date";s:4:"null";b:0;s:7:"default";N;s:6:"length";N;}s:2:"no";a:4:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:11;}}
